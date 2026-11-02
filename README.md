@@ -1,6 +1,6 @@
 # Screener Saham Live
 
-Aplikasi web screener saham gorengan Indonesia (dibuka dari aplikasi Muse, bukan APK Android), plus skrip mandiri di repo ini.
+Aplikasi web screener saham gorengan Indonesia (aplikasi web), plus skrip mandiri di repo ini.
 
 ## Isi repo
 - `live-screener.py` — skrip Python 3 mandiri, tanpa library tambahan, memakai API chart publik Yahoo Finance IDX.
@@ -18,4 +18,4 @@ python3 live-screener.py
 ## Catatan penting
 - Data bukan feed langsung BEI dan bukan real-time per tick: data publik Yahoo Finance IDX.
 - Hasil screening adalah screening, bukan rekomendasi pasti dan bukan jaminan keuntungan.
-- Versi web lengkap (Analyzer, FAST, Bandar, Multibagger, Simulasi, kartu sinyal, dan poster full analisis) berjalan sebagai aplikasi web di Muse dengan watermark "Sanxzk Ai".
+- Versi web lengkap (Analyzer, FAST, Bandar, Multibagger, Simulasi, kartu sinyal, dan poster full analisis) berjalan sebagai aplikasi web dengan watermark "Sanxzk Ai".
